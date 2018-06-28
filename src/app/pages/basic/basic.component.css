@@ -1,0 +1,27 @@
+/*
+   server-side-angular-way.component.css
+*/
+.no-data-available {
+  text-align: center;
+}
+
+/*
+   src/styles.css (i.e. your global style)
+*/
+.dataTables_empty {
+  display: none;
+}
+
+table.dataTable thead tr {
+  background-color: #999999;
+}
+
+.trodd {
+  background-color: #E2E4FF;
+}
+.treven {
+  background-color: white;
+}
+.mover {
+  background-color: #999999;
+}
